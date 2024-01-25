@@ -5,3 +5,5 @@ export * from "./entities/user.entity";
 export * from "./dtos/auth/reset-password.dto";
 export * from "./dtos/auth/reset-password.dto";
 export * from "./dtos/auth/modify-password.dto";
+export * from "./dtos/exercise/create-exercise.dto";
+export * from "./dtos/routine/create-routine.dto";
